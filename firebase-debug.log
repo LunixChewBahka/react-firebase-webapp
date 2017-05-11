@@ -1,0 +1,11 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/lunixchewbahka/.nvm/versions/node/v7.3.0/bin/node /home/lunixchewbahka/.nvm/versions/node/v7.3.0/bin/firebase deploy
+[debug] CLI Version:  3.7.0
+[debug] Platform:     linux
+[debug] Node Version: v7.3.0
+[debug] Time:         Thu May 11 2017 15:48:50 GMT+0800 (PHT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/react-firebase-webapp  
+ Thu May 11 2017 15:48:50 GMT+0800 (PHT)
